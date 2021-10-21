@@ -1,0 +1,12 @@
+{
+    "Tools": [
+      {
+        "name": "Rubeus",
+        "url": "https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.0_Any/Rubeus.exe"
+      },
+      {
+        "name": "Certify",
+        "url": "https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.0_Any/Certify.exe"
+      }
+    ]
+  }
